@@ -151,7 +151,7 @@
       * @desc Log "Epic failure!" to the console
       */
       function registerErrorFn(data, status, headers, config) {
-        console.error('Epic failure!');
+        console.error('Please verify the email');
       }
     }
 
