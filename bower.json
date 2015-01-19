@@ -1,7 +1,7 @@
 {
-  "name": "djangular_django_angular_boilerplate",
+  "name": "djangular",
   "version": "0.0.0",
-  "homepage": "https://github.com/brwr/djangular-django-angular-boilerplate",
+  "homepage": "https://github.com/naveen052/djangular",
   "license": "MIT",
   "ignore": [
     "**/.*",

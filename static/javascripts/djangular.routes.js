@@ -20,11 +20,11 @@
       controller: 'LoginController',
       controllerAs: 'vm',
       templateUrl: '/static/templates/authentication/login.html'
-    })/*.when('/', {
+    }).when('/', {
       controller: 'IndexController',
       controllerAs: 'vm',
       templateUrl: '/static/templates/layout/index.html'
-    }).when('/+:username', {
+    })/*.when('/+:username', {
       controller: 'AccountController',
       controllerAs: 'vm',
       templateUrl: '/static/templates/accounts/account.html'

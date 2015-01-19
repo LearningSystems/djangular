@@ -6,10 +6,11 @@
       'djangular.config',
       'djangular.routes',
       'djangular.authentication',
-      'djangular.layout'
-          /** 'djangular.accounts',
+      'djangular.layout',
       'djangular.posts',
-      'djangular.utils' */
+      'djangular.utils'
+          /** 'djangular.accounts',
+      */
     ]);
 
   angular
