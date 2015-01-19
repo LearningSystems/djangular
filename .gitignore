@@ -16,5 +16,5 @@ dist/
 # Staticfiles
 staticfiles/
 
-#pycharms files
+# pycharms files
 .idea/
